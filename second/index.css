@@ -8,78 +8,69 @@ body {
   vertical-align: baseline;
 }
 
-.wrap{
-    padding: 20px;
+.wrap {
+  padding: 20px;
 }
 
-.section1{
-    display: flex;
-    border: 4px solid;
-    align-items: flex-end;
-    padding: 15px;
-    margin-bottom: 25px;
-    
-    
+.section1 {
+  display: flex;
+  border: 4px solid;
+  align-items: flex-end;
+  padding: 15px;
+  margin-bottom: 25px;
 }
 
-.ppl{
-    height: 185px;
-    background-color: #8A2BE2;
-    width: 50px;
-    margin: 0 1.5rem 0 0rem;
+.ppl {
+  height: 185px;
+  background-color: #8a2be2;
+  width: 50px;
+  margin: 0 1.5rem 0 0rem;
 }
-.green{
-    height: 250px;
-    width: 500px;
-    background-color: #228B22;
-    margin: 0 1.5rem 0 1.5rem;
-
+.green {
+  height: 250px;
+  width: 500px;
+  background-color: #228b22;
+  margin: 0 1.5rem 0 1.5rem;
 }
-.circle{
-    width: 250px;
-    height: 250px;
-    background-color: #87CEEB;
-    border-radius: 50%;
-    margin: 0 1.5rem 0 1.5rem;
-
+.circle {
+  width: 250px;
+  height: 250px;
+  background-color: #87ceeb;
+  border-radius: 50%;
+  margin: 0 1.5rem 0 1.5rem;
 }
-.section2{
-    border: black;
-    border-style: dotted;
-    margin-bottom: 25px;
-    padding: 2em;
-
+.section2 {
+  border: black;
+  border-style: dotted;
+  margin-bottom: 25px;
+  padding: 2em;
 }
-.yellowSqr{
-    height: 250px;
-    width: 100%;
-    background-color: #FFFACD;
-    box-shadow: 10px 10px 8px #636363;
-   
-
+.yellowSqr {
+  height: 250px;
+  width: 100%;
+  background-color: #fffacd;
+  box-shadow: 10px 10px 8px #636363;
 }
 
-.section3{
-   
+.section3 {
 }
-.friends{
-    margin: auto;
-    width: 725px;
-    height: 500px;
-    text-align: center;
-    border: #e8e8e8 solid;
-    box-shadow: 3px 3px 7px #d8d7d7;
-    position: relative;
-
+.friends {
+  margin: auto;
+  width: 725px;
+  height: 500px;
+  text-align: center;
+  border: #e8e8e8 solid;
+  box-shadow: 3px 3px 7px #d8d7d7;
+  position: relative;
 }
 
 .friends h1 {
-    color: #000080;
-    text-transform: uppercase;
-    line-height: 0.6;
-    letter-spacing: 10px;
-    text-align: center;
-    position: relative;
-    top: 40%;
-    font-size: 43px;
+  color: #000080;
+  text-transform: uppercase;
+  line-height: 0.6;
+  letter-spacing: 10px;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  font-size: 43px;
 }

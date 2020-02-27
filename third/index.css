@@ -1,0 +1,61 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.hero {
+  padding: 20px 0 20px 20px;
+}
+
+.top {
+  height: 150px;
+  width: 100%;
+  background-color: #d8d8d8;
+  position: relative;
+}
+.box {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: #4a90e2;
+  margin-left: 20px;
+}
+.text {
+  font-size: 28px;
+  margin: 3em 0 3em 3em;
+  font-family: sans-serif;
+}
+.color {
+  height: 150px;
+  width: 100%;
+}
+
+.blue {
+  background-color: #4a90e2;
+  height: 100%;
+  width: 100%;
+}
+
+.green {
+  background-color: #50e3c2;
+  height: 100%;
+  width: 100%;
+}
+
+.greenYellow {
+  background-color: #b8e986;
+  height: 100%;
+  width: 100%;
+}
+.Yellow {
+  background-color: #f8e71c;
+  height: 100%;
+  width: 100%;
+}
